@@ -1,7 +1,6 @@
 ### Olá, Eu sou Guilherme 👋
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 😅 Estudando Programação e Inglês
-- 😄 Pronouns: ele/dele 
 
 <div>
   <a href="https://github.com/GuilhermeSouza02">
